@@ -63,7 +63,9 @@ Escenarios de Prueba:
   Prueba de conectividad remota y operación autónoma.
 
 Presupuesto Estimado:
-Costo Total Aproximado:  $ 161,300  COP
+
+Costo Total Aproximado: $ 161,300  COP.
+
 Financiamiento: Compartido por el equipo. Se reutilizarán componentes del laboratorio o proyectos anteriores cuando sea posible.	
 
 
